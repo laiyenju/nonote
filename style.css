@@ -1,0 +1,23 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+::selection {
+  background: #5bc0de;
+  color: #192251;
+}
+
+.blog_title {
+  font-size: 7em;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+}
+
+.menu {
+  text-transform: uppercase;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+}
